@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anastasia Nika / personal website"
+title                    : "Anastasia Nika"
 title_separator          : "-"
 name                     : &name "Anastasia"
-description              : &description "personal description"
+description              : &description "Chemist, MSc, PhD. Polymer chemistry"
 url                      : https://anastasianika.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anastasianika.github.io"
