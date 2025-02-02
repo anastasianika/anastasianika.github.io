@@ -21,7 +21,7 @@ repository               : "anastasianika.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Anastasia"
   pronouns         : # example: "she/her"  
   bio              : "Chemist, MSc, PhD. Polymer chemistry. Non-stop research on new materials."
