@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anastasia Nika"
+title                    : "Anastasia Nika / personal website"
 title_separator          : "-"
 name                     : &name "Anastasia"
 description              : &description "personal description"
