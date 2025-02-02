@@ -12,7 +12,7 @@ title                    : "Anastasia Nika"
 title_separator          : "-"
 name                     : &name "Anastasia"
 description              : &description "Chemist, MSc, PhD. Polymer chemistry"
-url                      : https://anastasianika.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://anastasianika.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anastasianika.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Chemist, MSc, PhD. Polymer chemistry. Non-stop research on new materials."
   location         : "Netherlands"
   employer         : "Post-doc Researcher"
-  uri              : https://anastasianika.github.io/ # URL
+  uri              : "https://anastasianika.github.io" # URL
   email            : "anast.nika[at]gmail.com" 
 
   # Academic websites
