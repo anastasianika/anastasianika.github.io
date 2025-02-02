@@ -36,9 +36,10 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-1031-1753"
   semantic         : "https://sciprofiles.com/profile/848014" # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=anastasia+nika"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=anastasia+nika"
   researchgate     : # URL
-  scopus           : https://www.scopus.com/authid/detail.uri?authorId=57216288407 # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57216288407" # URL
+  sciprofiles      : "https://sciprofiles.com/profile/848014"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
