@@ -8,7 +8,7 @@ date: 2024
 venue: 'Designs'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'K. Chatzipapas, A. Nika, A.A. Krimpenis. (2015). &quot;Introduction of Hybrid Additive manufacturing for producing multi-material artificial organs for Education and in vitro testing.&quot; <i>Designs</i>. 1(3).'
+citation: 'K Chatzipapas, A Nika, AA Krimpenis. (2015). &quot;Introduction of Hybrid Additive manufacturing for producing multi-material artificial organs for Education and in vitro testing.&quot; <i>Designs</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
