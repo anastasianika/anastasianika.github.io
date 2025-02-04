@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, National and Kapodistrian University of Athens, Greece (2020)
+* M.Sc. in Polymer Science and its applications, National and Kapodistrian University of Athens, Greece (2015)
+* B.Sc. in Chemistry, University of Patras, Greece (2011)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2020-08/2021 Junior Researcher
+  * EU-funded project: 'Bio-functional surfaces of fluoropolymers via lithography techniques'
+  * NCSR 'Demokritos', Athens, Greece
+  * Synthesis, characterization and evaluation of fluoropolymers for optical lithography (1H NMR, GPC, IR, UV-VIS, contact angle)
+  * Supervisor: Prof. Margarita Chatzichristidi
   
 Skills
 ======
