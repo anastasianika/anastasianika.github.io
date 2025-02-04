@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2024
 venue: 'Designs'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'K. Chatzipapas, A. Nika, A.A. Krimpenis. (2015). &quot;Introduction of Hybrid Additive manufacturing for producing multi-material artificial organs for Education and in vitro testing.&quot; <i>Designs</i>. 1(3).'
 ---
 
