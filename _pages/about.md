@@ -48,7 +48,7 @@ For collaborations, please contact Anastasia via e-mail: anast.nika[at]gmail.com
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <button id="dark-mode-toggle">Dark Mode</button>
+    <button id="dark-mode-toggle">Toggle Dark Mode</button>
     
     <!-- Your website content -->
     
