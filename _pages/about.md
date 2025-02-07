@@ -41,21 +41,3 @@ Her research interests include the design and characterization of polymers, the 
 For collaborations, please contact Anastasia via e-mail: anast.nika[at]gmail.com
 
 </p>
-
-
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="assets/main.scss">
-</head>
-<body>
-    <button id="dark-mode-toggle">Dark/Light</button>
-
-    <script>
-        const toggleButton = document.getElementById('dark-mode-toggle');
-        toggleButton.addEventListener('click', () => {
-            document.body.classList.toggle('dark-mode');
-            document.head.classList.toggle('dark-mode');
-        });
-    </script>
-</body>
-</html>
