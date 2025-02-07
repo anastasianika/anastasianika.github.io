@@ -49,18 +49,12 @@ For collaborations, please contact Anastasia via e-mail: anast.nika[at]gmail.com
 </head>
 <body>
     <button id="dark-mode-toggle">Toggle Dark Mode</button>
-    
-    <!-- Your website content -->
-    
-    <nav class="nav_list">
-        <!-- Your navigation items here -->
-    </nav>
-    
+
     <script>
         const toggleButton = document.getElementById('dark-mode-toggle');
         toggleButton.addEventListener('click', () => {
             document.body.classList.toggle('dark-mode');
-            document.querySelector('.nav_list').classList.toggle('dark-mode');
+            document.mastlist.classList.toggle('dark-mode');
         });
     </script>
 </body>
