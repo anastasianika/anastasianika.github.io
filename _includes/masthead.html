@@ -18,18 +18,17 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          <button id="dark-mode-toggle">Dark/Light</button>
-
-          <script>
-          const toggleButton = document.getElementById('dark-mode-toggle');
-          toggleButton.addEventListener('click', () => {
-              document.body.classList.toggle('dark-mode');
-              document.head.classList.toggle('dark-mode');
-          });
-          </script>
-          
           {% endfor %}
         </ul>
+        <button id="dark-mode-toggle">Dark/Light</button>
+
+        <script>
+        const toggleButton = document.getElementById('dark-mode-toggle');
+        toggleButton.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            document.head.classList.toggle('dark-mode');
+        });
+        </script>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
