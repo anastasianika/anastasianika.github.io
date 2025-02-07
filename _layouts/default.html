@@ -15,8 +15,8 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    <button id="dark-mode-toggle">Dark/Light</button>
     {% include masthead.html %}
+    <button id="dark-mode-toggle">Dark/Light</button>
 
     {{ content }}
 
@@ -33,7 +33,7 @@ layout: compress
         const toggleButton = document.getElementById('dark-mode-toggle');
         toggleButton.addEventListener('click', () => {
             document.body.classList.toggle('dark-mode');
-            document.head.classList.toggle('dark-mode');
+            document.masthead.classList.toggle('dark-mode');
         });
     </script>
     
