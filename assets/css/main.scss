@@ -51,17 +51,7 @@
 }
 
 /* Dark mode styles */
-.dark-mode {
-    background-color: #333;
-    color: #fff;
-}
-
-.dark-mode .masthead, .dark-mode .main {
-    background-color: #333;
-    color: #fff;
-}
-
-.dark-mode .sidebar {
+.dark-mode, .dark-mode .masthead {
     background-color: #333;
     color: #fff;
 }
