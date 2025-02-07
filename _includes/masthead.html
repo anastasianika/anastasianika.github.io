@@ -14,7 +14,6 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            <button id="dark-mode-toggle">Dark/Light</button>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -22,10 +21,3 @@
     </div>
   </div>
 </div>
-
-<script>
-    const toggleButton = document.getElementById('dark-mode-toggle');
-    toggleButton.addEventListener('click', () => {
-        document.body.classList.toggle('dark-mode');
-    });
-</script>
