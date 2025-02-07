@@ -54,7 +54,12 @@
 }
 
 /* Dark mode styles */
-.dark-mode, .dark-mode .masthead, .dark-mode .masthead__menu {
+.dark-mode, .dark-mode .masthead {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .masthead__menu, .dark-mode .masthead__menu-item {
     background-color: #333;
     color: #fff;
 }
