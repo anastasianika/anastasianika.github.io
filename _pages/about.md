@@ -54,7 +54,7 @@ For collaborations, please contact Anastasia via e-mail: anast.nika[at]gmail.com
         const toggleButton = document.getElementById('dark-mode-toggle');
         toggleButton.addEventListener('click', () => {
             document.body.classList.toggle('dark-mode');
-            document.mastlist.classList.toggle('dark-mode');
+            document.head.classList.toggle('dark-mode');
         });
     </script>
 </body>
