@@ -39,3 +39,15 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Example: Dark mode for other elements */
+.nav__list.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+}
