@@ -41,13 +41,13 @@
 @import "print";
 
 /* Dark mode styles */
-.dark-mode {
+body.dark-mode {
     background-color: #121212;
     color: #ffffff;
 }
 
 /* Example: Dark mode for other elements */
-.nav__list.dark-mode {
+.nav_list.dark-mode {
     background-color: #333333;
     color: #ffffff;
 }
