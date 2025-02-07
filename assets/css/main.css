@@ -40,14 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Dark mode styles */
+/* Dark mode styles 
 body.dark-mode {
     background-color: #121212;
     color: #ffffff;
+}*/
+
+/* Dark mode styles */
+.dark-mode {
+    background-color: #333;
+    color: #fff;
 }
 
 /* Example: Dark mode for other elements */
-.nav_list.dark-mode {
+.nav__list.dark-mode {
     background-color: #333333;
     color: #ffffff;
 }
