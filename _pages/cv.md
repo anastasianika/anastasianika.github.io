@@ -23,11 +23,13 @@ Work experience
   * Synthesis, characterization and evaluation of fluoropolymers for optical lithography (1H NMR, GPC, IR, UV-VIS, contact angle)
   * Supervisor: Prof. Margarita Chatzichristidi
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
