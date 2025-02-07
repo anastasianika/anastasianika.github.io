@@ -42,13 +42,13 @@ For collaborations, please contact Anastasia via e-mail: anast.nika[at]gmail.com
 
 </p>
 
-<!-- <!DOCTYPE html> -->
+
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="assets/main.scss">
 </head>
 <body>
-    <button id="dark-mode-toggle">Toggle Dark Mode</button>
+    <button id="dark-mode-toggle">Dark/Light</button>
 
     <script>
         const toggleButton = document.getElementById('dark-mode-toggle');
