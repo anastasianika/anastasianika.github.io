@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 06/2020-08/2021 Junior Researcher
+* 06/2020-08/2021 Research Scientist/Post-doc Researcher
   * EU-funded project: 'Bio-functional surfaces of fluoropolymers via lithography techniques'
   * NCSR 'Demokritos', Athens, Greece
   * Synthesis, characterization and evaluation of fluoropolymers for optical lithography (1H NMR, GPC, IR, UV-VIS, contact angle)
