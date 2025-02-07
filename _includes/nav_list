@@ -1,11 +1,6 @@
 {% include base_path %}
 {% assign navigation = site.data.navigation[include.nav] %}
 
-<div class="banner">
-    <h1>Welcome to My Website</h1>
-    <button id="dark-mode-toggle">Toggle Dark Mode</button>
-</div>
-
 <nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
   <ul>
@@ -49,11 +44,3 @@
     {% endfor %}
   </ul>
 </nav>
-
-<script>
-    const toggleButton = document.getElementById('dark-mode-toggle');
-    toggleButton.addEventListener('click', () => {
-        document.body.classList.toggle('dark-mode');
-        document.querySelector('.nav__list').classList.toggle('dark-mode');
-    });
-</script>
