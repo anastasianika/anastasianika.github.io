@@ -22,15 +22,6 @@ Work experience
   * NCSR 'Demokritos', Athens, Greece
   * Synthesis, characterization and evaluation of fluoropolymers for optical lithography (1H NMR, GPC, IR, UV-VIS, contact angle)
   * Supervisor: Prof. Margarita Chatzichristidi
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -44,12 +35,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
