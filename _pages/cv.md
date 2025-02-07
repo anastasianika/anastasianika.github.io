@@ -36,29 +36,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
-<!--  <!DOCTYPE html> -->
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-    <button id="dark-mode-toggle">Toggle Dark Mode</button>
-    
-    <!-- Your website content -->
-    
-    <nav class="nav__list">
-        <!-- Your navigation items here -->
-    </nav>
-    
-    <script>
-        const toggleButton = document.getElementById('dark-mode-toggle');
-        toggleButton.addEventListener('click', () => {
-            document.body.classList.toggle('dark-mode');
-            document.querySelector('.nav__list').classList.toggle('dark-mode');
-        });
-    </script>
-</body>
-</html>
-
-  
