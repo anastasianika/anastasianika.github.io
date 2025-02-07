@@ -295,6 +295,36 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+ #<!-- <!DOCTYPE html> -->
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <h1>Welcome to My Website</h1>
+            <button id="dark-mode-toggle">Toggle Dark Mode</button>
+        </div>
+    </header>
+    
+    <!-- Your website content -->
+    
+    <nav class="nav__list">
+        <!-- Your navigation items here -->
+    </nav>
+    
+    <script>
+        const toggleButton = document.getElementById('dark-mode-toggle');
+        toggleButton.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            document.querySelector('.nav__list').classList.toggle('dark-mode');
+        });
+    </script>
+</body>
+</html>
+
+
 
 # Outputting
 permalink: /:categories/:title/
